@@ -2,7 +2,7 @@
 <h3 align="center">Azure Data Engineer | Python & Big Data Developer</h3>
 <br>
 
-- 🔭 I’m currently working on **Azure Cloud Services like (Azure Data Factory, Azure Data Lake Gen2, Azure DataBricks, Azure SQL, Azure Synapse..)**
+- 🔭 I’m currently working on **Azure Cloud Services like (Azure Data Factory, Azure Data Lake Gen2, Azure DataBricks, Azure SQL, Azure Synapse Analytics, Azure Functions and more..)**
   
 - 🐍 Strong background in **Python**, **SQL**, and **PySpark**
 
